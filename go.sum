@@ -1,0 +1,9 @@
+gitlab.com/gomidi/midi v1.21.0/go.mod h1:3ohtNOhqoSakkuLG/Li1OI6I3J1c2LErnJF5o/VBq1c=
+gitlab.com/gomidi/midi v1.23.0 h1:21DS9n/ZOwkc9Svfn3/FiASCuApQqLacOgATMNeQmaw=
+gitlab.com/gomidi/midi v1.23.0/go.mod h1:3ohtNOhqoSakkuLG/Li1OI6I3J1c2LErnJF5o/VBq1c=
+gitlab.com/gomidi/rtmididrv v0.11.0 h1:Bc/zr8agMU2KDcpj932Vy51K4YO5Cp6pPIY6Buf6Q6Y=
+gitlab.com/gomidi/rtmididrv v0.11.0/go.mod h1:wjwyt4rCwmvS++uk5mW5S+MnSbUnQUMNVvaEUCunjJE=
+gitlab.com/gomidi/rtmididrv/imported/rtmidi v0.0.0-20191025100939-514fe0ed97a6 h1:0XqAH/BAxH5TTBzIWkdlZqpp6VUx6DFcQnMWW6G6hIc=
+gitlab.com/gomidi/rtmididrv/imported/rtmidi v0.0.0-20191025100939-514fe0ed97a6/go.mod h1:FYVFN2H23IsX56VntiDF9DgCIekHh359wW+iMl1W8rQ=
+gitlab.com/gomidi/rtmididrv/imported/rtmidi v0.0.0-20210208101652-7be3f3dfd782 h1:93VwV6MCPGcjb02Pj1j0N6/E4H7NyYDyGk2uQozNU4c=
+gitlab.com/gomidi/rtmididrv/imported/rtmidi v0.0.0-20210208101652-7be3f3dfd782/go.mod h1:FYVFN2H23IsX56VntiDF9DgCIekHh359wW+iMl1W8rQ=
